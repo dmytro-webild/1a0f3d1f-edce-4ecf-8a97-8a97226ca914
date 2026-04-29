@@ -56,7 +56,7 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/photo-wood-texture-pattern_58702-15456.jpg",          imageAlt: "Luxury Metal Roofing"},
+          imageSrc: "http://img.b2bpic.net/free-photo/photo-wood-texture-pattern_58702-15456.jpg?_wi=1",          imageAlt: "Luxury Metal Roofing"},
         {
           imageSrc: "http://img.b2bpic.net/free-photo/vertical-view-beautiful-wooden-house-with-decorations-windows-near-sea_181624-17764.jpg",          imageAlt: "Architectural Roofing Excellence"},
         {
@@ -95,7 +95,7 @@ export default function LandingPage() {
       title="A Crew Led by Excellence"
       description="Michael and the team at Inline Roofing LLC bring professional, polite, and diligent craftsmanship to every site. We focus on hard work and honest communication, ensuring your roof is built to last while looking exceptional."
       subdescription="With competitive pricing and a commitment to safety, we are your local experts for high-end metal and traditional roofing."
-      imageSrc="http://img.b2bpic.net/free-photo/close-up-low-angle-view-engineer-architect-shaking-hands_23-2148233784.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/close-up-low-angle-view-engineer-architect-shaking-hands_23-2148233784.jpg?_wi=1"
       mediaAnimation="slide-up"
       icon={ShieldCheck}
     />
@@ -111,19 +111,19 @@ export default function LandingPage() {
           imageSrc: "http://img.b2bpic.net/free-photo/low-angle-shot-modern-architectural-design_181624-14972.jpg",          imageAlt: "Low angle shot of a modern architectural design"},
         {
           title: "Roof Replacement",          description: "Full-service replacement for aging roofs with precision and care.",          buttonIcon: Home,
-          imageSrc: "http://img.b2bpic.net/free-photo/photo-wood-texture-pattern_58702-15456.jpg",          imageAlt: "Low angle shot of a modern architectural design"},
+          imageSrc: "http://img.b2bpic.net/free-photo/photo-wood-texture-pattern_58702-15456.jpg?_wi=2",          imageAlt: "Low angle shot of a modern architectural design"},
         {
           title: "Storm Repair",          description: "Rapid response to storm-damaged roofs to secure your investment.",          buttonIcon: ShieldAlert,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-low-angle-view-engineer-architect-shaking-hands_23-2148233784.jpg",          imageAlt: "Low angle shot of a modern architectural design"},
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-low-angle-view-engineer-architect-shaking-hands_23-2148233784.jpg?_wi=2",          imageAlt: "Low angle shot of a modern architectural design"},
         {
           title: "New Construction",          description: "Expert roof installation for new build homes and properties.",          buttonIcon: Hammer,
-          imageSrc: "http://img.b2bpic.net/free-photo/friends-high-fiving-each-other-beer-pong-game_23-2149431325.jpg",          imageAlt: "Low angle shot of a modern architectural design"},
+          imageSrc: "http://img.b2bpic.net/free-photo/friends-high-fiving-each-other-beer-pong-game_23-2149431325.jpg?_wi=1",          imageAlt: "Low angle shot of a modern architectural design"},
         {
           title: "Inspections",          description: "Comprehensive diagnostic checks to identify potential issues early.",          buttonIcon: Search,
-          imageSrc: "http://img.b2bpic.net/free-photo/expressive-senior-female-posing-indoor_344912-354.jpg",          imageAlt: "Low angle shot of a modern architectural design"},
+          imageSrc: "http://img.b2bpic.net/free-photo/expressive-senior-female-posing-indoor_344912-354.jpg?_wi=1",          imageAlt: "Low angle shot of a modern architectural design"},
         {
           title: "Maintenance",          description: "Preventative maintenance to ensure years of peak performance.",          buttonIcon: Wrench,
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-beautiful-woman_23-2148352570.jpg",          imageAlt: "Low angle shot of a modern architectural design"},
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-beautiful-woman_23-2148352570.jpg?_wi=1",          imageAlt: "Low angle shot of a modern architectural design"},
       ]}
       title="Premium Roofing Services"
       description="Our comprehensive range of roofing solutions, designed to withstand the elements while maintaining a sophisticated aesthetic."
@@ -154,11 +154,11 @@ export default function LandingPage() {
       useInvertedBackground={true}
       testimonials={[
         {
-          id: "1",          name: "Sarah J.",          imageSrc: "http://img.b2bpic.net/free-photo/friends-high-fiving-each-other-beer-pong-game_23-2149431325.jpg"},
+          id: "1",          name: "Sarah J.",          imageSrc: "http://img.b2bpic.net/free-photo/friends-high-fiving-each-other-beer-pong-game_23-2149431325.jpg?_wi=2"},
         {
-          id: "2",          name: "Mark D.",          imageSrc: "http://img.b2bpic.net/free-photo/expressive-senior-female-posing-indoor_344912-354.jpg"},
+          id: "2",          name: "Mark D.",          imageSrc: "http://img.b2bpic.net/free-photo/expressive-senior-female-posing-indoor_344912-354.jpg?_wi=2"},
         {
-          id: "3",          name: "Elena R.",          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-beautiful-woman_23-2148352570.jpg"},
+          id: "3",          name: "Elena R.",          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-beautiful-woman_23-2148352570.jpg?_wi=2"},
         {
           id: "4",          name: "Kevin M.",          imageSrc: "http://img.b2bpic.net/free-photo/couple-home-enjoying-life_23-2149167740.jpg"},
         {
