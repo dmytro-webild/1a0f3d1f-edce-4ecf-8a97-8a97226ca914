@@ -11,7 +11,7 @@ import MetricCardFourteen from '@/components/sections/metrics/MetricCardFourteen
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
 import TestimonialAboutCard from '@/components/sections/about/TestimonialAboutCard';
 import TestimonialCardTwelve from '@/components/sections/testimonial/TestimonialCardTwelve';
-import { ShieldCheck, Zap, Home, ShieldAlert, Hammer, Search, Tool } from "lucide-react";
+import { ShieldCheck, Zap, Home, ShieldAlert, Hammer, Search, Wrench } from "lucide-react";
 
 export default function LandingPage() {
   return (
@@ -122,7 +122,7 @@ export default function LandingPage() {
           title: "Inspections",          description: "Comprehensive diagnostic checks to identify potential issues early.",          buttonIcon: Search,
           imageSrc: "http://img.b2bpic.net/free-photo/expressive-senior-female-posing-indoor_344912-354.jpg",          imageAlt: "Low angle shot of a modern architectural design"},
         {
-          title: "Maintenance",          description: "Preventative maintenance to ensure years of peak performance.",          buttonIcon: Tool,
+          title: "Maintenance",          description: "Preventative maintenance to ensure years of peak performance.",          buttonIcon: Wrench,
           imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-beautiful-woman_23-2148352570.jpg",          imageAlt: "Low angle shot of a modern architectural design"},
       ]}
       title="Premium Roofing Services"
