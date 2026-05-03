@@ -12,6 +12,7 @@ import MetricCardFourteen from '@/components/sections/metrics/MetricCardFourteen
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
 import TestimonialAboutCard from '@/components/sections/about/TestimonialAboutCard';
 import TestimonialCardTwelve from '@/components/sections/testimonial/TestimonialCardTwelve';
+import HeroBillboard from '@/components/sections/hero/HeroBillboard';
 import { ShieldCheck, Zap, Home, ShieldAlert, Hammer, Search, Wrench } from "lucide-react";
 
 export default function LandingPage() {
@@ -39,6 +40,16 @@ export default function LandingPage() {
       ]}
       brandName="Inline Roofing LLC"
       button={{ text: "Free Quote", href: "#contact" }}
+    />
+  </div>
+
+  <div id="hero-billboard" data-section="hero-billboard">
+    <HeroBillboard 
+      title="Roofing Excellence"
+      description="Top-tier solutions for industrial and residential roofing needs."
+      background={{ variant: "sparkles-gradient" }}
+      imageSrc="http://img.b2bpic.net/free-photo/photo-wood-texture-pattern_58702-15456.jpg?_wi=1"
+      buttons={[{ text: "Get Started", href: "#contact" }]}
     />
   </div>
 
